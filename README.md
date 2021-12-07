@@ -1,6 +1,6 @@
 # statcast-2021
 ---
-## We used data from the 2021 MLB Season, to predict the outcome of matchups between hitters & pitchers
+## We used data from the 2021 MLB Season to predict the outcome of matchups between hitters & pitchers
 
 ### Main Notebook: Final_final.ipynb
 
